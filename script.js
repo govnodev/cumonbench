@@ -44,6 +44,8 @@ var repl = function(textNode) {
     textNode.data = textNode.data.replace('Камбербетч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Камбербэтч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Кембербэтч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('Кэмбербетч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('Кэмбербэтч', sl[Math.floor(Math.random() * sl.length)]);
 
 }
 
