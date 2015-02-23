@@ -39,7 +39,7 @@ var sl = [
     'Канифоль'
 ];
 /* бля, нибейте, спиздил */
-var firstnamelist = ["Cumaddict", "Bumblebee", "Bandersnatch", "Broccoli", "Rinkydink", "Bombadil", "Boilerdang",
+var firstnamelist = ["Bumblebee", "Bandersnatch", "Broccoli", "Rinkydink", "Bombadil", "Boilerdang",
     "Bandicoot", "Fragglerock", "Muffintop", "Crumplesack", "Congleton", "Blubberdick",
     "Buffalo", "Benadryl", "Butterfree", "Burberry", "Whippersnatch", "Buttermilk",
     "Beezlebub", "Budapest", "Boilerdang", "Blubberwhale", "Bumberstump", "Bulbasaur",
