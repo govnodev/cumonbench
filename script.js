@@ -17,9 +17,7 @@ var fl = [
     'Бугуртуч',
     'Бенефратор',
     'Бандероль',
-    'Бартоломей',
-    'Бонягух',
-    'Баттерворт'
+    'Бартоломей'
 ];
 var sl = [
     'Компертач',
@@ -38,8 +36,7 @@ var sl = [
     'Камвхорач',
     'Кримберглюхтер',
     'Дяриндярин',
-    'Канифоль',
-    'Кукупник'
+    'Канифоль'
 ];
 /* бля, нибейте, спиздил */
 var firstnamelist = ["Bumblebee", "Bandersnatch", "Broccoli", "Rinkydink", "Bombadil", "Boilerdang",
@@ -90,7 +87,7 @@ var repl = function(textNode) {
     textNode.data = textNode.data.replace('Cumberbatch', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
 	textNode.data = textNode.data.replace('benedict', firstnamelist[Math.floor(Math.random() * firstnamelist.length)]);
     textNode.data = textNode.data.replace('cumberbatch', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
-    textNode.data = textNode.data.replace('BENEDICT', lastnamelist[Math.floor(Math.random() * firstnamelist.length)]);
+    textNode.data = textNode.data.replace('BENEDICT', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
     textNode.data = textNode.data.replace('CUMBERBATCH', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
 
 }
