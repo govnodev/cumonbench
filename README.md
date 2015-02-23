@@ -17,6 +17,4 @@
 
 6) ???
 
-7) PROFIT!
-
 ![image](https://i.imgur.com/vV8WeMS.png)
