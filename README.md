@@ -16,5 +16,5 @@
 5) Выбираешь то, что разархивировал
 
 6) ???
-
 ![image](https://i.imgur.com/J4PbjPY.png)
+![image](https://i.imgur.com/wsGYS05.png)
