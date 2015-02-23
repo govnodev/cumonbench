@@ -53,7 +53,7 @@ var firstnamelist = ["Bumblebee", "Bandersnatch", "Broccoli", "Rinkydink", "Bomb
     "Bouillabaisse", "Wellington", "Benetton", "Bendandsnap", "Timothy", "Brewery",
     "Bentobox", "Brandybuck"
 ];
-var lastnamelist = ["Coddleswort", "Curdlesnoot", "Calldispatch", "Humperdinck", "Rivendell",
+var lastnamelist = ["Cumaddict", "Coddleswort", "Curdlesnoot", "Calldispatch", "Humperdinck", "Rivendell",
     "Cuttlefish", "Lingerie", "Vegemite", "Ampersand", "Cumberbund", "Candycrush",
     "Clombyclomp", "Cragglethatch", "Nottinghill", "Cabbagepatch", "Camouflage",
     "Creamsicle", "Curdlemilk", "Upperclass", "Frumblesnatch", "Crumplehorn",
