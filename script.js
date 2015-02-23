@@ -87,8 +87,6 @@ var repl = function(textNode) {
     textNode.data = textNode.data.replace('Cumberbatch', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
 	textNode.data = textNode.data.replace('benedict', firstnamelist[Math.floor(Math.random() * firstnamelist.length)]);
     textNode.data = textNode.data.replace('cumberbatch', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
-    textNode.data = textNode.data.replace('BENEDICT', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
-    textNode.data = textNode.data.replace('CUMBERBATCH', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
 
 }
 
