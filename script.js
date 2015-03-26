@@ -70,22 +70,22 @@ var lastnamelist = ["Cumaddict", "Coddleswort", "Curdlesnoot", "Calldispatch", "
 ];
 var repl = function(textNode) {
     textNode.data = textNode.data.replace('Бенедикт', fl[Math.floor(Math.random() * fl.length)]);
-	textNode.data = textNode.data.replace('бенедикт', fl[Math.floor(Math.random() * fl.length)]);
+    textNode.data = textNode.data.replace('бенедикт', fl[Math.floor(Math.random() * fl.length)]);
     textNode.data = textNode.data.replace('Кембербетч', sl[Math.floor(Math.random() * sl.length)]);
-	textNode.data = textNode.data.replace('кембербетч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('кембербетч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Камбербетч', sl[Math.floor(Math.random() * sl.length)]);
-	textNode.data = textNode.data.replace('камбербетч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('камбербетч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Камбербэтч', sl[Math.floor(Math.random() * sl.length)]);
-	textNode.data = textNode.data.replace('камбербэтч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('камбербэтч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Кембербэтч', sl[Math.floor(Math.random() * sl.length)]);
-	textNode.data = textNode.data.replace('кембербэтч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('кембербэтч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Кэмбербетч', sl[Math.floor(Math.random() * sl.length)]);
-	textNode.data = textNode.data.replace('кэмбербетч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('кэмбербетч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Кэмбербэтч', sl[Math.floor(Math.random() * sl.length)]);
-	textNode.data = textNode.data.replace('кэмбербэтч', sl[Math.floor(Math.random() * sl.length)]);
+    textNode.data = textNode.data.replace('кэмбербэтч', sl[Math.floor(Math.random() * sl.length)]);
     textNode.data = textNode.data.replace('Benedict', firstnamelist[Math.floor(Math.random() * firstnamelist.length)]);
     textNode.data = textNode.data.replace('Cumberbatch', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
-	textNode.data = textNode.data.replace('benedict', firstnamelist[Math.floor(Math.random() * firstnamelist.length)]);
+    textNode.data = textNode.data.replace('benedict', firstnamelist[Math.floor(Math.random() * firstnamelist.length)]);
     textNode.data = textNode.data.replace('cumberbatch', lastnamelist[Math.floor(Math.random() * lastnamelist.length)]);
 
 }
